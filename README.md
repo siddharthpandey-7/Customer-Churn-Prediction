@@ -260,7 +260,7 @@ Open the local URL shown by Flask in your browser and enter the customer details
 ## 📌 Key Highlights
 
 - End-to-end customer churn prediction workflow
-- 19 input features with numerical and categorical preprocessing
+- 19 input features with numerical and categorical feature preprocessing
 - Stratified 80/20 train-test split
 - SMOTE-based class imbalance handling
 - Leakage-aware training pipeline
