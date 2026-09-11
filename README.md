@@ -257,6 +257,19 @@ python app.py
 
 Open the local URL shown by Flask in your browser and enter the customer details to generate a churn prediction.
 
+## 📌 Key Highlights
+
+- End-to-end customer churn prediction workflow
+- 19 input features with numerical and categorical preprocessing
+- Stratified 80/20 train-test split
+- SMOTE-based class imbalance handling
+- Leakage-aware training pipeline
+- Logistic Regression baseline and XGBoost model
+- Multi-metric model evaluation
+- Saved prediction pipeline using Joblib
+- Flask-based prediction application
+- Simplified user-friendly prediction interface
+
 ## 🔮 Future Improvements
 
 - Add SHAP-based model explainability.
