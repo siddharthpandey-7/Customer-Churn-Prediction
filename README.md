@@ -6,6 +6,11 @@ This project develops an end-to-end machine learning solution to predict whether
 
 The project includes data preprocessing, exploratory data analysis, class imbalance handling with SMOTE, model training and evaluation, model persistence, and a Flask-based web application for making predictions.
 
+## 🔗 Project Links
+
+- **GitHub Repository:** [Customer Churn Prediction](https://github.com/siddharthpandey-7/Customer-Churn-Prediction)
+- **Live Demo:** [Customer Churn Prediction App](https://customer-churn-prediction-m1o9.onrender.com)
+
 ## 🎯 Problem Statement
 
 Customer churn is an important challenge for subscription-based businesses. The objective of this project is to predict customers who are likely to churn, helping businesses identify higher-risk customers and take proactive retention measures.
